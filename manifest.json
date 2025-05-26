@@ -5,7 +5,7 @@
   "title": "Jellyfin",
   "appDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
   "iconUri": "https://github.com/jellyfin/jellyfin-webos/raw/master/org.jellyfin.webos/submission-icon.png",
-  "sourceUrl": "https://github.com/jellyfin/jellyfin-webos",
+  "sourceUrl": "https://01dnot.github.io/ollie-scarn/org.jellyfin.webos_1.2.2_all.ipk",
   "rootRequired": false,
   "ipkUrl": "org.jellyfin.webos_1.2.2_all.ipk",
   "ipkHash": {
