@@ -7,12 +7,12 @@
   },
   "packages": [
     {
-      "id": "org.webosbrew.hyperhdr.tv.loader",
+      "id": "org.jellyfin.webos",
       "title": "Jellyfin",
-      "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
-      "manifestUrl": "",
+      "iconUri": "https://github.com/jellyfin/jellyfin-webos/raw/master/org.jellyfin.webos/submission-icon.png",
+      "manifestUrl": "https://01dnot.github.io/ollie-scarn/manifest.json",
       "pool": "main",
-      "shortDescription": "HyperHDR",
+      "shortDescription": "Jelly",
       "fullDescriptionUrl": ""
     }
        
