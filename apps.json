@@ -8,7 +8,7 @@
   "packages": [
     {
       "id": "org.jellyfin.webos",
-      "title": "Jellyfin",
+      "title": "Nice",
       "iconUri": "https://github.com/jellyfin/jellyfin-webos/raw/master/org.jellyfin.webos/submission-icon.png",
       "manifestUrl": "https://01dnot.github.io/ollie-scarn/manifest.json",
       "pool": "main",

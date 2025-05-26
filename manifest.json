@@ -2,13 +2,13 @@
   "id": "org.jellyfin.webos",
   "version": "1.2.2",
   "type": "web",
-  "title": "Jellyfin",
+  "title": "Jellyfin nice",
   "appDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
   "iconUri": "https://github.com/jellyfin/jellyfin-webos/raw/master/org.jellyfin.webos/submission-icon.png",
   "sourceUrl": "https://01dnot.github.io/ollie-scarn/org.jellyfin.webos_1.2.2_all.ipk",
   "rootRequired": false,
   "ipkUrl": "org.jellyfin.webos_1.2.2_all.ipk",
   "ipkHash": {
-    "sha256": "499bb0bc2c800470298a1c6386efd161033d4c0c5c00583768ac25f5b1cfa4e1"
+    "sha256": "56d7f3b96f998c26361464a3d51e3de9b98af52a0ad91828945af0a88109268b"
   }
 }
