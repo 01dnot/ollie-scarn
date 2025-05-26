@@ -9,6 +9,6 @@
   "rootRequired": false,
   "ipkUrl": "org.jellyfin.webos_1.2.2_all.ipk",
   "ipkHash": {
-    "sha256": "7bfbd4925be6599d26c581c2dcb891ae9df5a2303251360f56d6107f4cc89525"
+    "sha256": "499bb0bc2c800470298a1c6386efd161033d4c0c5c00583768ac25f5b1cfa4e1"
   }
 }
