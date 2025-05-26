@@ -7,13 +7,13 @@
   },
   "packages": [
     {
-      "id": "org.jellyfin.webos",
-      "title": "Nice",
+      "id": "com.danielnotland.customfin",
+      "title": "Customfin",
       "iconUri": "https://github.com/jellyfin/jellyfin-webos/raw/master/org.jellyfin.webos/submission-icon.png",
       "manifestUrl": "https://01dnot.github.io/ollie-scarn/manifest.json",
       "pool": "main",
-      "shortDescription": "Jelly",
-      "fullDescriptionUrl": ""
+      "shortDescription": "Customfin",
+      "fullDescriptionUrl": "Full Customfin description"
     }
        
   ]
